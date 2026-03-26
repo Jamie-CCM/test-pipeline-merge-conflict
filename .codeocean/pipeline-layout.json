@@ -1,0 +1,37 @@
+{
+	"edges": [
+		{
+			"id": "xy-edge__capsule_test_capsule_to_add_pipeline_app_panel_allows_run_when_a_required_param_is_missing_1-results",
+			"source": "capsule_test_capsule_to_add_pipeline_app_panel_allows_run_when_a_required_param_is_missing_1",
+			"target": "results"
+		}
+	],
+	"nodes": [
+		{
+			"data": {
+				"capsule_id": "8d07812e-e0f8-4989-ab1d-6436091d5989"
+			},
+			"id": "capsule_test_capsule_to_add_pipeline_app_panel_allows_run_when_a_required_param_is_missing_1",
+			"position": {
+				"x": 848,
+				"y": 372.00000000000006
+			},
+			"selected": true,
+			"type": "capsule"
+		},
+		{
+			"id": "results",
+			"position": {
+				"x": 889.3333333333334,
+				"y": 734.6666666666667
+			},
+			"type": "results"
+		}
+	],
+	"timestamp": 1774549495919,
+	"viewport": {
+		"x": 0,
+		"y": 0,
+		"zoom": 0.75
+	}
+}
