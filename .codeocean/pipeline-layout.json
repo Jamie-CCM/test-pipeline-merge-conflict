@@ -13,8 +13,8 @@
 			},
 			"id": "capsule_test_capsule_to_add_pipeline_app_panel_allows_run_when_a_required_param_is_missing_1",
 			"position": {
-				"x": 848,
-				"y": 372.00000000000006
+				"x": 801.3333333333333,
+				"y": 402.66666666666674
 			},
 			"selected": true,
 			"type": "capsule"
@@ -28,7 +28,7 @@
 			"type": "results"
 		}
 	],
-	"timestamp": 1774549495919,
+	"timestamp": 1774549517543,
 	"viewport": {
 		"x": 0,
 		"y": 0,
