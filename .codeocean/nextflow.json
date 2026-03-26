@@ -2,19 +2,20 @@
 	"version": 2,
 	"processes": [
 		{
-			"name": "capsule_test_capsule_to_add_pipeline_app_panel_allows_run_when_a_required_param_is_missing_1",
+			"name": "capsule_test_capsule_to_swtich_1",
 			"capsule": {
-				"id": "8d07812e-e0f8-4989-ab1d-6436091d5989",
-				"name": "[Test] - capsule to add - Pipeline app panel allows run when a required param is missing",
-				"slug": "8796773",
-				"app_panel": true
+				"id": "3ae99841-c857-4230-bae3-70eb59b76020",
+				"name": "[Test] - capsule to swtich",
+				"slug": "8776567",
+				"commit": "59d1d3b3f3419f7f9f4c7740a1b6473a2b86cb0e",
+				"image_tag": "7c6f02a704fc59918f0ba8b88039e825"
 			},
 			"resources": {
 				"cpus": 1,
 				"memory": 8
 			},
 			"results": {
-				"id": "8d07812e-e0f8-4989-ab1d-6436091d5989"
+				"id": "3ae99841-c857-4230-bae3-70eb59b76020"
 			}
 		}
 	]
